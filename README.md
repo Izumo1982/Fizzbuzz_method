@@ -1,0 +1,2 @@
+# Fizzbuzz_method
+前回のRuby　Goldの資格試験で間違えた問題をFizzBuzz問題に無理やり応用しました。
